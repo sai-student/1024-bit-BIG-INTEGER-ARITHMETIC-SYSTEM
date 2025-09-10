@@ -94,15 +94,11 @@ Pull requests are welcome! If you have suggestions or want to add features (like
 
 ---
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ---
 
 ## Author
 
-- Abhiram Vadhri
+- Vakkalagadda Sai Tarun
 
 ---
 
